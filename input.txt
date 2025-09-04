@@ -1,0 +1,1 @@
+This is an example. It contains numbers: 2020, 2021, 2022, 2023, 2024, 2025. And it also contains other characters: &@ ().
